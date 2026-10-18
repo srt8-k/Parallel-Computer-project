@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+__MACOSX/
+._*
+.DS_Store
+benchmark_results/
+results/
+brain-tumor-mri-dataset/
+brain-tumor-mri-dataset.zip
+data/
+dataset/
+datasets/
+~$*
